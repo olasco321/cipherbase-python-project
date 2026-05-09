@@ -1,0 +1,35 @@
+#systemhealth check
+#servers = int(input("enter number of servers: "))
+#count = 1
+#while count <= servers:
+#    print("checking server", count)
+
+
+#login attempt
+#attempts =int(input("enter number of login attempts \n"))
+#for i in range(1 , 2 , 3 ,):
+#    print("attempts recorded \n")
+
+
+#report submission reminder
+#employees = int(input("enter number of employees: \n"))
+#for i in range(employees):
+#    print("submit your report")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
